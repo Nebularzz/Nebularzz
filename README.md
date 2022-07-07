@@ -1,4 +1,4 @@
 Sup guys im Nebularzz aka Nebular
-I program in Luau
-I use Roblox to code
-yea thats all abut me/what i do here
+I program in Lua
+I use Roblox and Visual Studio Code to program
+yea thats all abut me
